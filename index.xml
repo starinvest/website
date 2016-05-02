@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Star Investigators</title>
-    <link>http://starinvestigators.github.io/</link>
+    <link>http://starinvest.github.io/website/</link>
     <description>Recent content on Star Investigators</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://starinvestigators.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://starinvest.github.io/website/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
